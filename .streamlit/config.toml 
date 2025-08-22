@@ -1,0 +1,12 @@
+[theme]
+base="light"
+primaryColor="#22c55e"
+secondaryBackgroundColor="#f8fafc"
+textColor="#0f172a"
+
+[client]
+toolbarMode="minimal"
+
+[server]
+maxUploadSize=15
+enableXsrfProtection=true
